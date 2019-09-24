@@ -1,7 +1,5 @@
 package testapplication;
 
-import testapplication.other.Produce;
-
 /**
  *
  * @author Kyle

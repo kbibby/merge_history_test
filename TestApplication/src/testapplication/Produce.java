@@ -1,4 +1,4 @@
-package testapplication.other;
+package testapplication;
 
 /**
  *
