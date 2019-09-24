@@ -10,9 +10,9 @@ public class TestApplication {
      * @param args the command line arguments
      */
     public static void main( String[] args ) {
-       Produce p = new Produce();
+       Fruits f = new Fruits();
        Produce v = new Produce();
-       System.out.println( p.toString() );
+       System.out.println( f.toString() );
        System.out.println( v.toString() );
     }
     
