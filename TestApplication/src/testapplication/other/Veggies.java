@@ -7,6 +7,7 @@ package testapplication.other;
  */
 public class Veggies {
     
+    @Override
     public String toString() {
         return "Corn, Pumpkin, Celery";
     }    
