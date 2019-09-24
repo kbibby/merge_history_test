@@ -5,7 +5,7 @@ package testapplication.other;
  * @author Kyle
  * @date Sep 24, 2019
  */
-public class Veggies {
+public class Produce {
     
     @Override
     public String toString() {

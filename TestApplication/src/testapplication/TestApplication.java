@@ -1,6 +1,6 @@
 package testapplication;
 
-import testapplication.other.Veggies;
+import testapplication.other.Produce;
 
 /**
  *
@@ -13,7 +13,7 @@ public class TestApplication {
      */
     public static void main( String[] args ) {
        Fruits f = new Fruits();
-       Veggies v = new Veggies();
+       Produce v = new Produce();
        System.out.println( f.toString() );
        System.out.println( v.toString() );
     }
