@@ -8,6 +8,6 @@ package testapplication.other;
 public class Veggies {
     
     public String toString() {
-        return "";
+        return "Corn";
     }    
 }
