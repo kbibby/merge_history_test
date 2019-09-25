@@ -3,12 +3,11 @@ package testapplication;
 /**
  *
  * @author Kyle
- * @date Sep 24, 2019
+ * @date Sep 25, 2019
  */
 public class Produce {
-
-   @Override
+    @Override
    public String toString() {
-        return "Apple, Orange, Banana";
+        return "Apple, Orange, Banana, Corn, Pumpkin, Celery";
     } 
 }
