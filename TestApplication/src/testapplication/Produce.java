@@ -1,4 +1,4 @@
-package testapplication.temp;
+package testapplication;
 
 /**
  *
