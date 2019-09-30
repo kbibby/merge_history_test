@@ -5,7 +5,7 @@ package testapplication.temp;
  * @author Kyle
  * @date Sep 30, 2019
  */
-public class TempProduce {
+public class Produce {
    
     @Override
    public String toString() {
