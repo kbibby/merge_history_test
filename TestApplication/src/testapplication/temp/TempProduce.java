@@ -9,6 +9,6 @@ public class TempProduce {
    
     @Override
    public String toString() {
-        return "Apple, Orange, Banana, Corn, Pumpkin, Celery";
+        return "Lemon, Apple, Orange, Banana, Corn, Pumpkin, Celery";
     } 
 }
